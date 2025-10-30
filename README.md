@@ -1,3 +1,5 @@
+https://my-cloud-demo-website.s3.us-east-1.amazonaws.com/add.html.txt 
+THIS IS MY WEBSITE ENDPOINT URL
 
 ☁️ Task 6: Host and Deploy a Web Application on the Cloud
 
